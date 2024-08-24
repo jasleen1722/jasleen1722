@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+i rarely use github but would love to dump nerdy stuff here one day 🫡
+
 <!--
 **jasleen1722/jasleen1722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
